@@ -1,0 +1,6 @@
+﻿  OpenCVApplication.cpp
+D:\proiect\OpenCVApplication-VS2015_31_basic\OpenCVApplication.cpp(321,6): warning C4101: 'result': unreferenced local variable
+  OpenCVApplication.vcxproj -> D:\proiect\OpenCVApplication-VS2015_31_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Debug\opencv_world310d.dll
+          2 file(s) copied.

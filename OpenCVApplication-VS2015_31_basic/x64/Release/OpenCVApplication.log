@@ -1,0 +1,10 @@
+﻿  OpenCVApplication.cpp
+  Generating code
+  0 of 478 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCVApplication.vcxproj -> D:\proiect\OpenCVApplication-VS2015_31_basic\x64\Release\OpenCVApplication.exe
+  OpenCV\dll\Release\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Release\opencv_world310.dll
+          2 file(s) copied.
